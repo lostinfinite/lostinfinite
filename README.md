@@ -27,3 +27,7 @@ Your support means the world to me. If you appreciate my work and would like to 
 My projects are covered under the MIT License, promoting open and accessible development.
 
 Thank you for stopping by! I'm excited to share my journey with you and explore the vast, infinite possibilities of the internet together.
+
+## Badges
+:star: PRO
+
