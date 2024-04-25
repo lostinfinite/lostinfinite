@@ -1,7 +1,9 @@
 # Hi there, I'm Sage 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer, always exploring the infinite possibilities of the web. Inspired by the creativity and community spirit of platforms like Roblox, I aim to bring similar enthusiasm and innovation to my work.
-
+<br>
+# Stats
+<br>
 [![Lostinfinite's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lostinfinite&show_icons=true&theme=dark#gh-dark-mode-only)](https://lostinfinite.github.io)
 <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostinfinite&show_icons=true&theme=dark#gh-dark-mode-only)](https://lostinfinite.github.io)
 <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostinfinite&repo=lostinfinite.github.io&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lostinfinite/lostinfinite.github.io)
