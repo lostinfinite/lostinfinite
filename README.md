@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer, always exploring the infinite possibilities of the web. Inspired by the creativity and community spirit of platforms like Roblox, I aim to bring similar enthusiasm and innovation to my work.
 
+[![Lostinfinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostinfinite)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## About Me
 
 - 🌐 I specialize in crafting responsive and dynamic websites.
