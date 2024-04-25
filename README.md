@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate web developer, always exploring t
 
 [![Lostinfinite's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lostinfinite&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostinfinite&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-<br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostinfinite&repo=lostinfinite.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostinfinite&repo=lostinfinite.github.io&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 ## About Me
