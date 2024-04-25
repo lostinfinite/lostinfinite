@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate web developer, always exploring the infinite possibilities of the web. Inspired by the creativity and community spirit of platforms like Roblox, I aim to bring similar enthusiasm and innovation to my work.
 
 [![Lostinfinite's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lostinfinite&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lostinfinite&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 ## About Me
