@@ -1,4 +1,4 @@
-# Hi there, I'm LostInfinite 👋
+# Hi there, I'm Sage 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer, always exploring the infinite possibilities of the web. Inspired by the creativity and community spirit of platforms like Roblox, I aim to bring similar enthusiasm and innovation to my work.
 
